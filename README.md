@@ -3,6 +3,8 @@
 ![HTTP](https://img.shields.io/badge/HTTP-inspector-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-experimental-orange?style=for-the-badge)
 
+<img src="go-webhook.png" alt="Golang" width="200" />
+
 Um pequeno **inspector de webhooks em Go**.  
 Ele expõe endpoints HTTP para receber requisições (por exemplo, webhooks de **gateways** de **pagamento**, ERPs, APIs externas), registra os dados em memória e oferece uma API para inspecionar cada requisição recebida em detalhe.
 
