@@ -185,8 +185,3 @@ curl http://localhost:8082/events/1
 - Suporte a autenticação para proteger os endpoints (token, basic auth, etc.).
 - Integração com tunelamento (ex.: ngrok) para receber webhooks de serviços externos diretamente no ambiente local.
 
----
-
-## 📜 Licença
-
-Escolha e adicione aqui a licença desejada (MIT, Apache 2.0, etc.).
